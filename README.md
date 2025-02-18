@@ -10,14 +10,23 @@ The repository is organized as follows:
 📁 Datasets: Contains the datasets used for the tasks.
 
 📄 Level 1:
+
     task 1:  Gender Distribution Analysis in Excel
+    
     Task 2: Investment Preferences Analysis in Excel
+    
 📄 Level 2:
+
     Task 3: Objective and Source Analysis in Excel
+    
     Task 4: Duration and Expectations Analysis in Excel
+    
 📄 Level 3:
+
     Task 5: Correlation Analysis in Excel
+    
     Task 6: Dashboard Creation in Excel
+
     
 📞 Contact Information
 
